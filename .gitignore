@@ -1,0 +1,8 @@
+*.pdf
+*.Rhistory
+*.Rproj.user
+*.Rproj
+
+/exercise_material/
+/market_Data/
+.Rproj.user
